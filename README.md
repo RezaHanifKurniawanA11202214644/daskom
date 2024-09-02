@@ -1,2 +1,2 @@
 # daskom
-## Mmebuat Artikel diweb sederhana
+## Mebuat Artikel diweb sederhana
